@@ -1,6 +1,6 @@
 # Dev Jokenpo
 
-<img src = "main-jokenpo.png">
+
 
 **Dev Jokenpo** é um jogo online interativo que traz a clássica disputa de Pedra, Papel e Tesoura para o ambiente digital. O projeto foi desenvolvido para proporcionar uma experiência de jogo divertida, permitindo que os usuários desafiem a máquina em partidas rápidas.
 
