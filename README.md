@@ -1,8 +1,11 @@
 # Dev Jokenpo
 
-<img src = "main-jokenpo.png">
+![main-jokenpo](https://github.com/user-attachments/assets/c02d4299-e563-4031-b5d9-f603b6ed1300)
 
 **Dev Jokenpo** é um jogo online interativo que traz a clássica disputa de Pedra, Papel e Tesoura para o ambiente digital. O projeto foi desenvolvido para proporcionar uma experiência de jogo divertida, permitindo que os usuários desafiem a máquina em partidas rápidas.
+
+## 🖥️ Tela de Inicio
+![jokenpoo](https://github.com/user-attachments/assets/29201350-5325-46ab-977d-bb1a3a200999)
 
 ## 📋 Características
 
@@ -20,7 +23,7 @@
 
 Criado para oferecer um meio divertido de entreter os usuários, este projeto é uma excelente oportunidade para aplicar conhecimentos de programação e design em um jogo simples, mas envolvente.
 
-## 🖥️ Como Jogar
+## 🎮 Como Jogar
 
 1. Clone este repositório:
    ```bash
